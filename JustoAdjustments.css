@@ -1,0 +1,91 @@
+/* * {
+    --buttons-hover:#759ada;
+}
+html {
+    overflow-x: hidden;
+}
+.logo-default {
+    height: 6rem;
+}
+.logo-scrolled {
+    height: 6rem;
+}
+#nav-bar a:hover {
+    background-color: var(--buttons-hover);
+}
+.animated-element {
+    padding: 1rem;
+    border-radius: 20px;
+}
+.animated-element:hover {
+    background-color: var(--buttons-hover);
+}
+#btn:hover {
+    background-color: var(--buttons-hover) !important;
+
+}
+#nav {
+    background-color: #A5C5FC; 
+
+}
+
+#home {
+    background: #A5C5FC !important;
+}
+.btn {
+    background-color: #4a7bd1 !important;
+    border: none !important;
+}
+.btn:hover {
+    background-color: var(--buttons-hover) !important;
+}
+.active {
+    background-color: #4a7bd1 !important;
+}
+.rare-box {
+    background-color: #4a7bd1 !important;
+}
+.work-section {
+    background-color: whitesmoke !important;
+}
+.overlay-info{
+    background-color: transparent !important;
+}
+.item-img-overlay:before {
+    background-color: #759ada !important;
+}
+.wexim .tp-bullet.selected .tp-bullet-inner {
+    background-color: var(--buttons-hover) !important;
+}
+
+.footer-social a img{
+    transition: 0.2s;
+}
+.footer-social a img:hover{
+    scale: 1.1;
+}
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+@media (max-width: 575.98px) {
+    .footer-social {
+        flex-wrap: wrap;
+        gap: 1rem;
+    }
+    
+}
+@media(max-width: 768px) {
+    .footer-social {
+        flex-wrap: wrap;
+        gap: 3rem;
+    }
+}
+@media(max-width: 1280px) {
+    .footer-social {
+        flex-wrap: wrap;
+        gap: 3rem;
+    }
+} */
