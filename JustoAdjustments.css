@@ -92,6 +92,10 @@ html {
 .projects1 {
     background-color: #f6f6f6;;
 }
+.contactPicture {
+    width: 60%!important;
+    border-radius: 20px;
+}
 html {
     scroll-behavior: smooth;
   }
