@@ -96,6 +96,10 @@ html {
     width: 60%!important;
     border-radius: 20px;
 }
+/* .contactDisplay {
+    display: flex;
+    justify-content: center!important;
+} */
 html {
     scroll-behavior: smooth;
   }
