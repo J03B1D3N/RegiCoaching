@@ -112,3 +112,8 @@ html {
 .textColor{
     color: black!important;
 }
+.fixedParticlesBar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
