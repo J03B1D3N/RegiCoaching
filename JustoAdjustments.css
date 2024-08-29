@@ -117,3 +117,6 @@ html {
     justify-content: center;
     align-items: center;
 }
+.radius {
+    border-radius: 20px;
+}
