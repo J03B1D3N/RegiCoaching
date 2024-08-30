@@ -120,3 +120,20 @@ html {
 .radius {
     border-radius: 20px;
 }
+.generalconditions {
+    padding: 4rem;
+}
+p {
+    color: black !important;
+}
+h5 {
+    color: black !important;
+    margin: 1rem !important;
+}
+h6 {
+    color: black !important;
+}
+li {
+    list-style:disc !important;
+    margin-left: 15px;
+}
