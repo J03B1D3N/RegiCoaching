@@ -123,12 +123,11 @@ html {
 .generalconditions {
     padding: 4rem;
 }
-p {
+#generalconditions p {
     color: black !important;
 }
 h5 {
     color: black !important;
-    margin: 1rem !important;
 }
 h6 {
     color: black !important;
